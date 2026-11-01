@@ -49,7 +49,7 @@ Este proyecto busca responder tres preguntas clave:
 
 ## Instalación
 1. Clonar el repositorio:
-   git clone https://github.com/MonicaFernandezM/M5_forecasting
+   git clone https://github.com/MonicaFernandezM/prediccion-demanda-inventario
 
 2. Abrir el proyecto en Jupyter Notebook.
 
